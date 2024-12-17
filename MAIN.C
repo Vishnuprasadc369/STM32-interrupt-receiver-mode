@@ -1,3 +1,7 @@
+/* USER CODE BEGIN Includes */
+#include<string.h>
+/* USER CODE END Includes */
+
 /* USER CODE BEGIN PV */
 
 extern char letter[5];
