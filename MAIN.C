@@ -1,11 +1,13 @@
 /* USER CODE BEGIN Includes */
 #include<string.h>
+#include<stdio.h>
+#include <stdlib.h>
 /* USER CODE END Includes */
 
 /* USER CODE BEGIN PV */
 
-extern char letter[5];
-extern  char buffer[200];
+ char letter[5];
+ char buffer[200];
 uint8_t intr;//=0;
 
 /* USER CODE END PV */
